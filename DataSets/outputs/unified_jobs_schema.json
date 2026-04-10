@@ -1,0 +1,21 @@
+[
+  "job_id",
+  "raw_job_title",
+  "job_title",
+  "normalized_job_title",
+  "company",
+  "location",
+  "city",
+  "country",
+  "employment_type",
+  "experience_level",
+  "salary_min",
+  "salary_max",
+  "salary_currency",
+  "job_description",
+  "skills",
+  "category",
+  "industry",
+  "remote_type",
+  "posted_date"
+]

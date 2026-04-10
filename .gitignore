@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+.next/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+job_market.db
+DataSets/outputs/unified_jobs_dataset.csv
